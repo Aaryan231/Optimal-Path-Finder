@@ -95,7 +95,7 @@ def bellman(l, d, prob, y, e, ite):
 
 
 def main():
-    n = int(input("Enter the number of row in the maze: "))
+    n = int(input("Enter the number of rows in the maze: "))
     m = int(input("Enter the number of columns in the maze: "))
     print("")
     print("NOTE:")
